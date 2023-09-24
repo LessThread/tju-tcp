@@ -1,5 +1,5 @@
 handin.zip
-bin/client
-bin/server
+bin/
 src/merged.c
 test/
+build/
